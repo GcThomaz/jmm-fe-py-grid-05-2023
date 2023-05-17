@@ -14,7 +14,7 @@ body {
 
 #bx1 {
     background-color: blueviolet;
-    color: white;
+    color: yellow;
     grid-column: 1 / 6;
     display: flex;
     justify-content: center;
